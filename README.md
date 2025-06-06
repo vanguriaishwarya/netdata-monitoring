@@ -1,4 +1,4 @@
-##✅ Task: Monitor System Resources Using Netdata.
+##Task: Monitor System Resources Using Netdata.
 
 ##📝 Objective:Install Netdata using Docker and visualize real-time system and application performance metrics through a web-based dashboard.
 
